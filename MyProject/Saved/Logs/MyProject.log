@@ -733,3 +733,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.13-23.21.32:108][193]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.04.13-23.21.32:143][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2020.04.13-23.21.33:546][193]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/GitHub/-Machinima-2020/MyProject/Saved/LV_Soul_Slum58D219834076C30E88771D8E1011A409.tmp' to '../../../../../../Users/lukas/Documents/GitHub/-Machinima-2020/MyProject/Content/SoulCity/Maps/LV_Soul_Slum.umap'
+[2020.04.13-23.28.40:452][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.04.13-23.28.41:865][945]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/GitHub/-Machinima-2020/MyProject/Saved/LV_Soul_Slum208A735A44DB2606F2EBBDAAD6F3A0BC.tmp' to '../../../../../../Users/lukas/Documents/GitHub/-Machinima-2020/MyProject/Content/SoulCity/Maps/LV_Soul_Slum.umap'
