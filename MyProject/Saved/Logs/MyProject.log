@@ -1515,3 +1515,335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.20-22.16.05:121][919]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Stumble_Backwards_Anim43027D704D88809497C8BE994CC3D442.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Boy/Anims/Stumble_Backwards_Anim.uasset'
 [2020.04.20-22.16.05:127][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Models/Boy/Anims/Walking_Anim" FILE="C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Boy/Anims/Walking_Anim.uasset" SILENT=true
 [2020.04.20-22.16.05:140][919]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Walking_Anim55ED04F948485F141A8DF8B816A6F626.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Boy/Anims/Walking_Anim.uasset'
+[2020.04.20-22.17.22:179][372]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Models/Boy/Anims/CrawlingAnim.CrawlingAnim
+[2020.04.20-22.17.22:179][372]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Models/Boy/Anims/CrawlingAnim.CrawlingAnim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.20-22.17.22:260][372]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Models/Boy/Anims/CrawlingAnim.CrawlingAnim
+[2020.04.20-22.17.22:282][372]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.20-22.17.22:329][372]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.20-22.17.22:624][372]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.20-22.20.49:445][ 93]LogSlate: Window 'CrawlingAnim' being destroyed
+[2020.04.20-22.20.49:453][ 93]LogSlate: Window 'CrawlingAnim' being destroyed
+[2020.04.20-22.20.49:453][ 93]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-22.20.49:483][ 93]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-22.20.49:573][ 93]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-22.22.03:234][448]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx)
+[2020.04.20-22.22.03:248][448]LogFbx: Loading FBX Scene from C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx
+[2020.04.20-22.22.03:300][448]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.20-22.22.05:747][448]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.04.20-22.22.05:799][448]FBXImport: Error: Error, Could not import arm2.
+Duplicate bone name found ('arm2'). Each bone must have a unique name. 
+[2020.04.20-22.22.05:799][448]FBXImport: Warning: Get Import Data has failed. 
+[2020.04.20-22.22.05:799][448]FBXImport: Error: Import failed. 
+[2020.04.20-22.22.07:590][448]LogSlate: Window 'Message' being destroyed
+[2020.04.20-22.22.07:596][448]LogAssetTools: Warning: Failed to import 'C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx'. Failed to create asset '/Game/Models/Models/Robot/robotSphere_anim_Idle_Loop_S'.
+Please see Output Log for details.
+[2020.04.20-22.22.14:375][226]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.22.14:380][226]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.22.19:523][731]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx)
+[2020.04.20-22.22.19:537][731]LogFbx: Loading FBX Scene from C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx
+[2020.04.20-22.22.19:584][731]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.20-22.22.22:530][731]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.04.20-22.22.22:582][731]FBXImport: Error: Error, Could not import arm2.
+Duplicate bone name found ('arm2'). Each bone must have a unique name. 
+[2020.04.20-22.22.22:582][731]FBXImport: Warning: Get Import Data has failed. 
+[2020.04.20-22.22.22:582][731]FBXImport: Error: Import failed. 
+[2020.04.20-22.22.26:087][731]LogSlate: Window 'Message' being destroyed
+[2020.04.20-22.22.26:092][731]LogAssetTools: Warning: Failed to import 'C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx'. Failed to create asset '/Game/Models/Models/Robot/robotSphere_anim_Idle_Loop_S'.
+Please see Output Log for details.
+[2020.04.20-22.22.33:285][577]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.22.33:289][577]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.22.41:292][472]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx)
+[2020.04.20-22.22.41:306][472]LogFbx: Loading FBX Scene from C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx
+[2020.04.20-22.22.41:353][472]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.20-22.23.20:975][472]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.20-22.23.21:010][472]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.23.21:010][472]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.23.21:010][472]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.23.21:010][472]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.23.21:010][472]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2020.04.20-22.23.21:010][472]FBXImport: Error: Mesh contains right_arm_bolt4 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2020.04.20-22.23.21:010][472]FBXImport: Error: Import failed. 
+[2020.04.20-22.23.22:299][472]LogSlate: Window 'Message' being destroyed
+[2020.04.20-22.23.22:305][472]LogAssetTools: Warning: Failed to import 'C:\Users\Aidan\Desktop\Folder\robotSphere@anim_Idle_Loop_S.fbx'. Failed to create asset '/Game/Models/Models/Robot/robotSphere_anim_Idle_Loop_S'.
+Please see Output Log for details.
+[2020.04.20-22.23.30:109][364]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.23.30:116][364]LogSlate: Window 'Message Log' being destroyed
+[2020.04.20-22.29.54:786][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.20-22.29.54:787][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.029
+[2020.04.20-22.29.54:799][  0]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/robotSphere_anim_Idle_Loop_S_Aut5D4850354D2D3F7EEEC218A04105B91B.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Robot/robotSphere_anim_Idle_Loop_S_Auto3.uasset'
+[2020.04.20-22.29.54:801][  0]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.04.21-00.00.37:307][684]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aidan\Downloads\RunningInPlace.fbx)
+[2020.04.21-00.00.37:342][684]LogFbx: Loading FBX Scene from C:\Users\Aidan\Downloads\RunningInPlace.fbx
+[2020.04.21-00.00.37:376][684]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.21-00.00.42:567][684]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(0) Hips
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(1) Spine
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(2) Spine1
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(3) Spine2
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(4) Neck
+[2020.04.21-00.00.42:607][684]LogFbx: SortedLinks :(5) Head
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(32) RightArm
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(34) RightHand
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.21-00.00.42:619][684]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.21-00.00.42:620][684]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.21-00.00.42:620][684]LogFbx: Parsing AnimStack Take 001
+[2020.04.21-00.00.42:622][684]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/RunningInPlace': Can't find file.
+[2020.04.21-00.00.42:623][684]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/RunningInPlace': Can't find file.
+[2020.04.21-00.00.42:978][684]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Models/Boy/Anims/RunningInPlace.RunningInPlace
+[2020.04.21-00.00.42:978][684]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Models/Boy/Anims/RunningInPlace.RunningInPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-00.00.44:913][848]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Models/Boy/Anims/RunningInPlace.RunningInPlace
+[2020.04.21-00.00.44:933][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.21-00.00.45:109][848]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.21-00.00.45:626][848]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.21-00.00.48:386][ 73]LogSlate: Window 'RunningInPlace' being destroyed
+[2020.04.21-00.00.48:392][ 73]LogSlate: Window 'RunningInPlace' being destroyed
+[2020.04.21-00.00.48:392][ 73]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.00.48:411][ 73]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.00.48:560][ 73]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.00.57:123][308]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aidan\Downloads\Walkinginplace.fbx)
+[2020.04.21-00.00.57:167][308]LogFbx: Loading FBX Scene from C:\Users\Aidan\Downloads\Walkinginplace.fbx
+[2020.04.21-00.00.57:312][308]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.21-00.01.01:807][308]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.21-00.01.01:856][308]LogFbx: Valid bind pose for Pose (skinCluster1) - Group18924
+[2020.04.21-00.01.04:281][308]LogMaterial: Display: Material /Game/Models/Models/Boy/Anims/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.21-00.01.04:472][308]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.04.21-00.01.04:711][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.04.21-00.01.04:711][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2020.04.21-00.01.04:711][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2020.04.21-00.01.04:711][308]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.04.21-00.01.04:747][308]LogFbx: Triangulating skeletal mesh Group18924
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.04.21-00.01.22:163][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.04.21-00.01.22:163][308]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.04.21-00.01.25:156][308]LogSkeletalMesh: Section 0: 65263 vertices, 52 active bones
+[2020.04.21-00.01.25:170][308]LogSkeletalMesh: Section 0: Material=0, 127441 triangles
+[2020.04.21-00.01.25:281][308]LogSkeletalMesh: Building Skeletal Mesh Walkinginplace...
+[2020.04.21-00.01.25:515][308]LogSkeletalMesh: Built Skeletal Mesh [0.33s] /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace
+[2020.04.21-00.01.25:563][308]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset': Can't find file.
+[2020.04.21-00.01.25:563][308]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset': Can't find file.
+[2020.04.21-00.01.25:596][308]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(0) Hips
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(1) Spine
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(2) Spine1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(3) Spine2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(4) Neck
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(5) Head
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(8) LeftArm
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(10) LeftHand
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(31) RightShoulder
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(32) RightArm
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(33) RightForeArm
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(34) RightHand
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(56) LeftLeg
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(57) LeftFoot
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(61) RightLeg
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(62) RightFoot
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(63) RightToeBase
+[2020.04.21-00.01.25:644][308]LogFbx: SortedLinks :(64) RightToe_End
+[2020.04.21-00.01.25:645][308]LogFbx: Parsing AnimStack Take 001
+[2020.04.21-00.01.25:646][308]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace_Anim': Can't find file.
+[2020.04.21-00.01.25:646][308]LogLinker: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace_Anim': Can't find file.
+[2020.04.21-00.01.25:897][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Models/Boy/Anims/Walkinginplace_Anim.Walkinginplace_Anim
+[2020.04.21-00.01.25:897][308]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Models/Boy/Anims/Walkinginplace_Anim.Walkinginplace_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.21-00.01.25:933][308]LogSkeletalMesh: Building Skeletal Mesh Walkinginplace...
+[2020.04.21-00.01.26:146][308]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace
+[2020.04.21-00.01.26:187][308]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.21-00.01.26:187][308]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.04.21-00.01.26:342][308]LogSkeletalMesh: Building Skeletal Mesh Walkinginplace...
+[2020.04.21-00.01.26:560][308]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace
+[2020.04.21-00.01.27:031][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.04.21-00.01.27:031][309]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.038
+[2020.04.21-00.01.27:033][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Boy/Anims/RunningInPlace] ([1] browsable assets)...
+[2020.04.21-00.01.27:046][309]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Models/Boy/Anims/RunningInPlace.RunningInPlace]
+[2020.04.21-00.01.27:046][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Boy/Anims/RunningInPlace]
+[2020.04.21-00.01.27:065][309]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/RunningInPlace_Auto4C2C37B7B48065D4FD59BA2976D232DF7.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Boy/Anims/RunningInPlace_Auto4.uasset'
+[2020.04.21-00.01.27:067][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Boy/Anims/Walkinginplace] ([1] browsable assets)...
+[2020.04.21-00.01.27:080][309]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace]
+[2020.04.21-00.01.27:080][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Boy/Anims/Walkinginplace]
+[2020.04.21-00.01.28:495][309]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Walkinginplace_Auto4875198CF479E71E9BDA33CA37D47B649.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Boy/Anims/Walkinginplace_Auto4.uasset'
+[2020.04.21-00.01.28:497][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Boy/Anims/lambert1] ([1] browsable assets)...
+[2020.04.21-00.01.28:609][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Models/Boy/Anims/lambert1.lambert1]
+[2020.04.21-00.01.28:609][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Boy/Anims/lambert1]
+[2020.04.21-00.01.29:002][309]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/lambert1_Auto466F1C6D0466B1D220E2B52B986923408.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Boy/Anims/lambert1_Auto4.uasset'
+[2020.04.21-00.01.29:003][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset] ([1] browsable assets)...
+[2020.04.21-00.01.29:015][309]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset.Walkinginplace_PhysicsAsset]
+[2020.04.21-00.01.29:015][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset]
+[2020.04.21-00.01.29:038][309]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Walkinginplace_PhysicsAsset_AutoC7A793B548693C14BFA532B6ADCC8B13.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Boy/Anims/Walkinginplace_PhysicsAsset_Auto4.uasset'
+[2020.04.21-00.01.29:041][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Models/Boy/Anims/Walkinginplace_Anim] ([1] browsable assets)...
+[2020.04.21-00.01.29:053][309]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Models/Boy/Anims/Walkinginplace_Anim.Walkinginplace_Anim]
+[2020.04.21-00.01.29:053][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Models/Boy/Anims/Walkinginplace_Anim]
+[2020.04.21-00.01.29:075][309]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Walkinginplace_Anim_Auto458A66FD644EF1FE2F55496A4509E11F8.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Autosaves/Game/Models/Models/Boy/Anims/Walkinginplace_Anim_Auto4.uasset'
+[2020.04.21-00.01.29:076][309]LogFileHelpers: Auto-saving content packages took 2.044
+[2020.04.21-00.01.31:953][593]LogSlate: Window 'Message Log' being destroyed
+[2020.04.21-00.01.31:958][593]LogSlate: Window 'Message Log' being destroyed
+[2020.04.21-00.01.38:778][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.04.21-00.01.39:892][225]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.21-00.01.40:501][225]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Models/Boy/Anims/lambert1.lambert1
+[2020.04.21-00.01.40:686][225]LogSkeletalMesh: Building Skeletal Mesh Walkinginplace...
+[2020.04.21-00.01.40:898][225]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace
+[2020.04.21-00.01.41:111][225]LogUObjectHash: Compacting FUObjectHashTables data took  32.64ms
+[2020.04.21-00.01.42:557][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.21-00.01.43:342][352]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.21-00.01.43:783][352]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace
+[2020.04.21-00.01.44:033][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.21-00.01.44:079][355]LogLinker: Warning: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace': Can't find file.
+[2020.04.21-00.01.44:080][355]LogLinker: Warning: Failed to load '/Game/Models/Models/Boy/Anims/Walkinginplace': Can't find file.
+[2020.04.21-00.01.44:080][355]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Models/Models/Boy/Anims/Walkinginplace.Walkinginplace'
+[2020.04.21-00.01.46:687][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.21-00.01.47:456][578]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.21-00.01.47:571][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.21-00.01.48:997][698]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Models/Boy/Anims/Walkinginplace_Anim.Walkinginplace_Anim
+[2020.04.21-00.01.49:013][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.21-00.01.49:089][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.21-00.01.49:443][698]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.21-00.01.51:479][863]LogSlate: Window 'Walkinginplace_Anim' being destroyed
+[2020.04.21-00.01.51:487][863]LogSlate: Window 'Walkinginplace_Anim' being destroyed
+[2020.04.21-00.01.51:487][863]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.01.51:515][863]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.01.51:605][863]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.04.21-00.01.52:916][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.21-00.01.55:267][972]LogSlate: Window 'Save Content' being destroyed
+[2020.04.21-00.01.55:337][972]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/RunningInPlaceD402303D4BBEA46925CF77996A1E7259.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Boy/Anims/RunningInPlace.uasset'
+[2020.04.21-00.01.55:369][972]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/Walkinginplace_Anim6CE827A14A6984D04D98ED86A743E5D8.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Boy/Anims/Walkinginplace_Anim.uasset'
+[2020.04.21-00.01.55:494][972]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Saved/robotSphere_anim_Idle_Loop_SC1DC60504876A711A63CBDB294ACE42C.tmp' to 'C:/Users/Aidan/Documents/GitHub/-Machinima-2020/MyProject/Content/Models/Models/Robot/robotSphere_anim_Idle_Loop_S.uasset'
